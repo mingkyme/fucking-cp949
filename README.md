@@ -6,3 +6,4 @@
 * Yes24 : http://lexifdev.github.io/fucking-cp949/fucking/yes24?q={query}
 * Auction : http://lexifdev.github.io/fucking-cp949/fucking/auction?q={query}
 * 11st : http://lexifdev.github.io/fucking-cp949/fucking/11st?q={query}
+* 네이버카페 : http://lexifdev.github.io/fucking-cp949/fucking/navercafe?q={query}&name={cafename}
