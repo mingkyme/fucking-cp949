@@ -7,3 +7,4 @@
 * Auction : http://mingkyme.github.io/fucking-cp949/fucking/auction?q={query}
 * 11st : http://mingkyme.github.io/fucking-cp949/fucking/11st?q={query}
 * 네이버카페 : http://mingkyme.github.io/fucking-cp949/fucking/navercafe?q={query}&name={cafename}
+* 중고나라 : http://mingkyme.github.io/fucking-cp949/fucking/joonggonara?q={query}
