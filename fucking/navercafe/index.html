@@ -5,7 +5,7 @@
 <body>
 <script src="../../data/build.js"></script>
 <script>
-    window.location.href = 'https://cafe.naver.com/' + getQueryString('name') + '?iframe_url=/ArticleSearchList.nhn%3Fsearch.clubid=10050146%26search.searchdate=all%26search.searchBy=1%26search.query=' + encodeCP949(getQueryString('q'));
+    window.location.href = 'https://cafe.naver.com/ArticleSearchList.nhn?search.clubid='+getQueryString('clubid')+'&search.query='+encodeCP949(getQueryString('q'));
 </script>
 </body>
 </html>
