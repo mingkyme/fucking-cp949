@@ -8,3 +8,4 @@
 * 11st : http://mingkyme.github.io/fucking-cp949/fucking/11st?q={query}
 * 네이버카페 : http://mingkyme.github.io/fucking-cp949/fucking/navercafe?q={query}&clubid={clubid}
 * 중고나라 : http://mingkyme.github.io/fucking-cp949/fucking/joonggonara?q={query}
+* holybible : http://mingkyme.github.io/fucking-cp949/fucking/holybible/q={query}
